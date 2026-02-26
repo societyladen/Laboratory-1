@@ -43,12 +43,14 @@ let rec pow z n =
         printfn ">>> ПРЕДУПРЕЖДЕНИЕ: Степень должна быть неотрицательной! (ты ввел %d)" n
         printfn ">>> Будет возведено в степень 0 (верну 1 + 0i)"
         (1.0, 0.0)
-    elif n = 0 then 
-        (1.0, 0.0)
-    elif n = 1 then 
-        z
-    else 
-        multiply z (pow z (n - 1))
+    else
+        if n = 0 then 
+            (1.0, 0.0)
+        else
+            if n = 1 then 
+                z
+            else 
+                multiply z (pow z (n - 1))
 
 [<EntryPoint>]
 let main argv =
