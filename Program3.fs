@@ -37,7 +37,7 @@ let divide (a, b) (c, d) =
         let (x, y) = multiply (a, b) (c, -d)
         (x / denominator, y / denominator)
 
-// Возведение в степень с защитой от ебаната
+// Возведение в степень
 let rec pow z n =
     if n < 0 then
         printfn ">>> ПРЕДУПРЕЖДЕНИЕ: Степень должна быть неотрицательной! (ты ввел %d)" n
