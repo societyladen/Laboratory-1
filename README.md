@@ -29,7 +29,8 @@ F# №1
 ### Тестирование
 
 
-https://github.com/societyladen/Laboratory-1/blob/main/Тестирование/Capture001.png?raw=true
+<img width="1480" height="306" alt="Capture001" src="https://github.com/user-attachments/assets/bc32c3e9-7302-4afc-af82-de7deb3ab4bb" />
+
 
 
 
