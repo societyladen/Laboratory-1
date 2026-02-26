@@ -29,7 +29,7 @@ F# №1
 ### Тестирование
 
 
-https://github.com/societyladen/Laboratory-1/blob/main/Тестирование/1.bmp
+https://github.com/societyladen/Laboratory-1/blob/main/Тестирование/Capture001.png?raw=true
 
 
 
