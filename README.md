@@ -89,7 +89,9 @@ F# №1
 
 ### Тестирование
 
+<img width="1472" height="635" alt="cap4" src="https://github.com/user-attachments/assets/905138a5-de9b-4fbd-8bee-3b36d03a43ad" />
+<img width="1456" height="619" alt="cap3" src="https://github.com/user-attachments/assets/8253ab1e-6def-4e91-9fc3-36c24814f5e5" />
+<img width="1471" height="539" alt="cap2" src="https://github.com/user-attachments/assets/f5415707-edbd-4942-9b50-49dfb1aa5b6e" />
+<img width="1474" height="729" alt="cap1" src="https://github.com/user-attachments/assets/e5634e6a-102c-4558-9429-32713e1346ea" />
 
-
--
 
