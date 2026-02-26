@@ -29,7 +29,7 @@ F# №1
 ### Тестирование
 
 
-[capture_20260227005115223(1).bmp](https://github.com/user-attachments/files/25586319/capture_20260227005115223.1.bmp)
+[capture_20260227005115223(1).bmp](https://github.com/user-attachments/files/25586319/capture_20260227005115223.1.png)
 
 
 
