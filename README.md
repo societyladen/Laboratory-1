@@ -57,7 +57,8 @@ F# №1
 
 
 
--
+<img width="1480" height="247" alt="Capture002" src="https://github.com/user-attachments/assets/bc41e981-bb6b-42df-9dbf-198d8c6cff5e" />
+
 
 
 
