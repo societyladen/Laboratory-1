@@ -1,4 +1,4 @@
-﻿open System
+open System
 
 // Ввод числа
 let readComplex () =
@@ -53,7 +53,7 @@ let rec pow z n =
                 multiply z (pow z (n - 1))
 
 [<EntryPoint>]
-let main argv =
+let main args =
     printfn "Вводим первое число"
     let num1 = readComplex()
     printf "\nПервое число = "
