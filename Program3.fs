@@ -56,33 +56,33 @@ let rec pow z n =
 let main args =
     printfn "Вводим первое число"
     let num1 = readComplex()
-    printf "\nПервое число = "
+    printfn "Первое число = "
     printComplex num1
     
-    printfn "\nВводим второе число"
+    printfn "Вводим второе число"
     let num2 = readComplex()
-    printf "\nВторое число = "
+    printfn "Второе число = "
     printComplex num2
     
-    printfn "\nРезультаты"
+    printfn "Результаты"
     
-    printf "Сложение: "
+    printfn "Сложение: "
     printComplex (add num1 num2)
     
-    printf "Вычитание: "
+    printfn "Вычитание: "
     printComplex (subtract num1 num2)
     
-    printf "Умножение: "
+    printfn "Умножение: "
     printComplex (multiply num1 num2)
     
-    printf "Деление: "
+    printfn "Деление: "
     printComplex (divide num1 num2)
     
-    printf "\nВозводим первое число в степень: "
-    printf "Введи степень (целое неотрицательное число): "
+    printfn "Возводим первое число в степень: "
+    printfn "Введи степень (целое неотрицательное число): "
     let n = int(Console.ReadLine())
     
-    printf "Результат: "
+    printfn "Результат: "
     printComplex (pow num1 n)
     
     0
