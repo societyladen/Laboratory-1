@@ -11,6 +11,10 @@ let lengthsLine count =
 let main args =
     printf "Введите количество строк: "
     let count = Console.ReadLine() |> int
-    let lengths = lengthsLine count
-    printfn "Длины строк: %A" lengths
+    if count <= 0 then
+        printf "Неккоректные данные"
+        exit 1
+    else
+        let lengths = lengthsLine count
+        printfn "Длины строк: %A" lengths
     0
