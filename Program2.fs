@@ -1,4 +1,4 @@
-﻿open System
+open System
 
 // Задание 2
 let rec sumOfDigits x =
@@ -12,7 +12,10 @@ let rec sumOfDigits x =
 
 [<EntryPoint>]
 let main args =
-    printf "Введите x для подсчета суммы четных цифр числа: "
+    printf "Введите x для подсчета суммы четных цифр натурального числа числа: "
     let x = int (Console.ReadLine())
-    printfn "Сумма четных цифр числа %d = %d" x (sumOfDigits x)
+    if x <= 0 then
+        printfn "Вы ввели не натуральное число"
+        else
+            printfn "Сумма четных цифр числа %d = %d" x (sumOfDigits x)
     0
