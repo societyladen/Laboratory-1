@@ -56,7 +56,9 @@ F# №1
 
 
 
-<img width="1480" height="247" alt="Capture002" src="https://github.com/user-attachments/assets/bc41e981-bb6b-42df-9dbf-198d8c6cff5e" />
+<img width="1481" height="238" alt="cap32" src="https://github.com/user-attachments/assets/eef7c68f-8b2e-403d-b7f5-8c2196578186" />
+<img width="1474" height="263" alt="cap22" src="https://github.com/user-attachments/assets/1b2b3772-2a2f-4219-b18f-b70909ab2a3f" />
+![cap12](https://github.com/user-attachments/assets/fcc9b623-e581-42c7-a328-b6b171504013)
 
 
 
