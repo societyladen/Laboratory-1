@@ -58,7 +58,8 @@ F# №1
 
 <img width="1481" height="238" alt="cap32" src="https://github.com/user-attachments/assets/eef7c68f-8b2e-403d-b7f5-8c2196578186" />
 <img width="1474" height="263" alt="cap22" src="https://github.com/user-attachments/assets/1b2b3772-2a2f-4219-b18f-b70909ab2a3f" />
-![cap12](https://github.com/user-attachments/assets/fcc9b623-e581-42c7-a328-b6b171504013)
+<img width="1470" height="268" alt="cap12" src="https://github.com/user-attachments/assets/962aeac1-7ee2-4ff7-b6cf-9b4f1907102a" />
+
 
 
 
